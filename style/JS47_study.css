@@ -1,0 +1,22 @@
+/*1.total:img*/
+img{width:100px;height:130px;}
+#total-restuarant{width:70%;height:100%;margin:0 auto;border:2px solid black;}
+#custumer-quere{width:15%;height:100%;left:88%;position: absolute;top:20px;}
+button{margin-left:30px;}
+li{list-style-type: none;}
+/*2.restuarant*/
+/*2(1)cooker-house*/
+#cooker-house{width:30%;height:100%;float:left;border:2px solid yellow;text-align:center;
+    box-sizing:border-box;padding-top:100px;}
+p{font-size:20px;color:yellow;}
+/*2(2)eating-house*/
+#eating-house{width:70%;height:100%;float:right;border:2px solid green;box-sizing: border-box;}
+#cash{background-color:green;width:100px;height:25px;text-align:center;margin:0px auto;}
+#waiter{width:70px;height:85px;
+    position: absolute;left:900px;top:20px;}
+#casher{width:180px;height:120px;
+    position: absolute;left:900px;top:90px;}
+#table{height:180px;width:180px;
+    position:absolute;left:700px;top:250px;}
+#eating-ul{position:absolute;left:680px;top:400px;font-size:24px;}
+
